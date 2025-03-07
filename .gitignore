@@ -264,4 +264,6 @@ hs_err_pid*
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+
+.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/dart,visualstudiocode,androidstudio,intellij+all
